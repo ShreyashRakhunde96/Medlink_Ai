@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/
+data/pglite_db/
+.env
+*.log
+.DS_Store
+
